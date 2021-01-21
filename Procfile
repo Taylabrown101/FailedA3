@@ -1,0 +1,1 @@
+web: vendor/bin/haukaia3-php-apache2 web/
